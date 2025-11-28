@@ -1,16 +1,18 @@
-**🥁 Drum Kit**
+<h1 style="font-size:32px; font-weight:bold;">🥁 Drum Kit</h1>
 
-A simple and interactive Drum Kit built using HTML, CSS, and JavaScript. Users can play different drum sounds by clicking buttons or pressing specific keyboard keys. This project demonstrates basic DOM manipulation, event handling, and audio playback in JavaScript.
+<p style="font-size:18px;">
+A simple and interactive Drum Kit built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
+Users can play different drum sounds by clicking buttons or pressing specific keyboard keys.
+This project demonstrates basic DOM manipulation, event handling, and audio playback in JavaScript.
+</p>
 
-**Features :**
+<h2 style="font-size:24px; font-weight:bold;">Features :</h2>
 
-🎵 Play sounds using mouse clicks
-
-⌨️ Keyboard key support
-
-✨ Button animation for better user interaction
-
-🔊 Real-time audio playback
-
-🎨 Clean and responsive UI
+<ul style="font-size:18px;">
+  <li>🎵 Play sounds using mouse clicks</li>
+  <li>⌨️ Keyboard key support</li>
+  <li>✨ Button animation for better user interaction</li>
+  <li>🔊 Real-time audio playback</li>
+  <li>🎨 Clean and responsive UI</li>
+</ul>
 
